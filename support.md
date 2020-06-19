@@ -77,7 +77,7 @@ See [`contributing.md`][contributing] on how to contribute.
 
 [author]: http://wooorm.com
 
-[coc]: https://github.com/vfile/.github/blob/master/code-of-conduct.md
+[coc]: https://github.com/vfile/.github/blob/main/code-of-conduct.md
 
 [vfile]: https://github.com/vfile
 

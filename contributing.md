@@ -119,7 +119,7 @@ See [`support.md`][support] on how to get help.
 
 [author]: http://wooorm.com
 
-[coc]: https://github.com/vfile/.github/blob/master/code-of-conduct.md
+[coc]: https://github.com/vfile/.github/blob/main/code-of-conduct.md
 
 [mdast]: https://github.com/syntax-tree/mdast
 
