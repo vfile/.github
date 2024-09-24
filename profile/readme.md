@@ -9,18 +9,18 @@ For the main project, see [its readme][vfile].
 **`vfile`** is part of the unified collective, which brings together
 organisations that work with content as structured data.
 
-*   for more about us, see [`unifiedjs.com`][site]
-*   for how the collective is governed, see [`unifiedjs/collective`][collective]
-*   for updates, see [@unifiedjs][twitter] on Twitter
+* for more about us, see [`unifiedjs.com`][site]
+* for how the collective is governed, see [`unifiedjs/collective`][collective]
+* for updates, see [@unifiedjs][twitter] on Twitter
 
 #### Get involved
 
 > 👉 **Note**: By interacting with this organization or community you agree to
 > abide by our [code of conduct][coc].
 
-*   for questions, see [support][]
-*   to help, see [contribute][]
-*   to sponsor, see [OpenCollective][oc] or [GitHub sponsors][ghs]
+* for questions, see [support][]
+* to help, see [contribute][]
+* to sponsor, see [OpenCollective][oc] or [GitHub sponsors][ghs]
 
 [logo]: https://raw.githubusercontent.com/vfile/vfile/fc8164b/logo.svg?sanitize=true
 
