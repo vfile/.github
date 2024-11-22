@@ -1,47 +1,52 @@
-# [![vfile][logo]][org]
+# [![vfile][githubusercontent-logo]][github-vfile]
 
-**`vfile`** is an organization that contains a couple of projects that deal
-with virtual files, which are used in **[unified][]**.
-For the main project, see [its readme][vfile].
+**[`vfile`][github-vfile]** is an organization that contains a couple of projects that deal
+with virtual files,
+which are used in **[unified][github-unified]**.
+For the main project, see [its readme][github-vfile].
 
 #### unified
 
-**`vfile`** is part of the unified collective, which brings together
-organisations that work with content as structured data.
+`vfile` is part of the unified collective,
+which brings together organisations that work with content as structured data.
 
-* for more about us, see [`unifiedjs.com`][site]
-* for how the collective is governed, see [`unifiedjs/collective`][collective]
-* for updates, see [@unifiedjs][twitter] on Twitter
+* for more about us,
+  see [`unifiedjs.com`][unifiedjs]
+* for how the collective is governed,
+  see [`unifiedjs/collective`][github-unified-collective]
 
 #### Get involved
 
-> 👉 **Note**: By interacting with this organization or community you agree to
-> abide by our [code of conduct][coc].
+This community has a [code of conduct][github-health-code-of-conduct].
+You must follow it when interacting with the community.
 
-* for questions, see [support][]
-* to help, see [contribute][]
-* to sponsor, see [OpenCollective][oc] or [GitHub sponsors][ghs]
+* for questions,
+  see [`support.md`][github-health-support]
+* to help,
+  see [`contributing.md`][github-health-contributing]
+* to sponsor,
+  see [GitHub sponsors][github-sponsors],
+  [`thanks.dev`][thanks],
+  or [OpenCollective][]
 
-[logo]: https://raw.githubusercontent.com/vfile/vfile/fc8164b/logo.svg?sanitize=true
+[github-health-code-of-conduct]: https://github.com/vfile/.github/blob/main/code-of-conduct.md
 
-[org]: https://github.com/vfile
+[github-health-contributing]: https://github.com/vfile/.github/blob/main/contributing.md
 
-[vfile]: https://github.com/vfile/vfile
+[github-health-support]: https://github.com/vfile/.github/blob/main/support.md
 
-[unified]: https://github.com/unifiedjs/unified
+[github-vfile]: https://github.com/vfile/vfile
 
-[site]: https://unifiedjs.com
+[github-unified-collective]: https://github.com/unifiedjs/collective
 
-[twitter]: https://twitter.com/unifiedjs
+[github-unified]: https://github.com/unifiedjs/unified
 
-[collective]: https://github.com/unifiedjs/collective
+[opencollective]: https://opencollective.com/unified
 
-[coc]: https://github.com/vfile/.github/blob/main/code-of-conduct.md
+[thanks]: https://thanks.dev
 
-[support]: https://github.com/vfile/.github/blob/main/support.md
+[github-sponsors]: https://github.com/sponsors/unifiedjs
 
-[contribute]: https://github.com/vfile/.github/blob/main/contributing.md
+[githubusercontent-logo]: https://raw.githubusercontent.com/vfile/vfile/fc8164b/logo.svg?sanitize=true
 
-[oc]: https://opencollective.com/unified
-
-[ghs]: https://github.com/sponsors/unifiedjs
+[unifiedjs]: https://unifiedjs.com
