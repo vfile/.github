@@ -1,7 +1,7 @@
 # [![vfile][githubusercontent-logo]][github-vfile]
 
-**[`vfile`][github-vfile]** is an organization that contains a couple of projects that deal
-with virtual files,
+**[`vfile`][github-vfile]** is an organization that contains a couple of
+projects that deal with virtual files,
 which are used in **[unified][github-unified]**.
 For the main project, see [its readme][github-vfile].
 
